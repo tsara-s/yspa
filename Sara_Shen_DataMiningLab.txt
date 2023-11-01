@@ -1,0 +1,50 @@
+Data Mining Lab Results
+Sara Shen
+
+
+
+1. 
+Clear nights are defined as any nights where the description is "Clear", "Fair", "Sunny", or "Mostly Clear"
+Cloudy nights are everything else. 
+Ratio of cloudy to clear nights in New Haven: 2107/1756 or 1.2
+
+
+
+2. 
+Because the amount of data for each month is different (ie, the data starts in December 2012 and ends in July 2023), we calculate the difference between the number of clear days and the number of cloudy days. 
+
+Difference between number of clear days and number of cloudy days each month: 
+January:-53
+February:-39
+March:-14
+April:-50
+May:-49
+June:7
+July:-6
+August:8
+September:-16
+October:-61
+November:-8
+December:-70
+
+The three month range with the lowest difference between clear days and cloudy days is June-August, with 9 more clear than cloudy days.
+
+
+
+3. 
+We do the same difference calculation for the days of the week, because of a possible inconsistency in the amount of data for each day of the week. 
+
+Difference between number of clear days and number of cloudy days each month: 
+Monday:-41
+Tuesday:-79
+Wednesday:-48
+Thursday:-74
+Friday:-55
+Saturday:-26
+Sunday:-28
+
+The day of the week with the smallest difference in clear vs cloudy nights is Saturday; therefore, Saturday would be the best day for public nights. Tuesday actually seems to be the worst day for public night?
+
+
+4. 
+It is just slightly colder on average on clear nights, by 0.38 deg Celsius.
